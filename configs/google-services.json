@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "341379638887",
+    "firebase_url": "https://fir-fluxstore-woocommerce-default-rtdb.firebaseio.com",
+    "project_id": "fir-fluxstore-woocommerce",
+    "storage_bucket": "fir-fluxstore-woocommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341379638887:android:5ef0e9a2b26af9cc61d6c2",
+        "android_client_info": {
+          "package_name": "com.fusiongate.fluxstore_woocommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341379638887-a2orc9ts1ka60jpoa5dk63nm37krdiou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fusiongate.fluxstore_woocommerce",
+            "certificate_hash": "d087f0616fb1139bc19edc18f549f3dd3a1c1eb1"
+          }
+        },
+        {
+          "client_id": "341379638887-7i6smmm83qu5e0ouok5sm064df7torac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0L0vZVPuG5egSn64dI711-6gPo-siu7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341379638887-7i6smmm83qu5e0ouok5sm064df7torac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
